@@ -1,2 +1,2 @@
 # Shoe-Web
-Shoe Website Frontend Project
+Frontend for a Shoe Website Project
